@@ -3,11 +3,11 @@
 - I'm Scala Developer at @observepoint
 
 - I'm interested in:
--- Big data
--- Scala
--- Functional programming
--- Machine learning
--- Astronomy
+..* Big data
+..* Scala
+..* Functional programming
+..* Machine learning
+..* Astronomy
 
 - I'm currently studying for a Master's degree in Software Development at Kyiv Polytechnic Institute
 
