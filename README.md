@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Scala Developer at [@observepoint](https://github.com/observepoint)
+- I'm Scala Developer at [Observepoint](https://github.com/observepoint)
 
 - I'm interested in:  
   - Big data  
