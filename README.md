@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- I'm Scala Developer at LotusFlare
+- I'm a Software Engineer specializing in Scala  
+- I'm currently studying for a PhD in Software Engineering and teach practical classes on Artificial Intelligence at the Kyiv Polytechnic Institute  
 
 - I'm interested in:  
-  - Big data  
+  - Data Engineering  
+  - Distributed systems  
   - Scala  
   - Functional programming  
   - Machine learning  
   - Astronomy  
-
-- I'm currently studying for a PhD in Software Development at Kyiv Polytechnic Institute
 
 - 📫 How to reach me: zheniatrochun@gmail.com
