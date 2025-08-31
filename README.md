@@ -7,7 +7,7 @@ I teach at the Kyiv Polytechnic Institute:
   - Data bases course lectures  
   - Practical classes on Artificial Intelligence  
   
-My academic works: https://orcid.org/0000-0002-2744-6681  
+My academic works: https://www.researchgate.net/profile/Yevhenii-Trochun  
   
 Some of my interests:  
   - Data Engineering  
