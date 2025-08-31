@@ -15,6 +15,7 @@ Some of my interests:
   - Scala  
   - Functional programming  
   - Machine learning  
+  - Houseplants  
   - Astronomy  
 
 📫 How to reach me: zheniatrochun@gmail.com | trochun.yevhenii@lll.kpi.ua  
